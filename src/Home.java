@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Home {
+public class Home {
+    int num;
+    int umnbors;
+    String word;
+
 }

@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class NextHome {
+public class NextHome {
+
+ Main main = new Main(){
+
+     int num;
+     int umnbors;
+     String word;
+ }
 }
